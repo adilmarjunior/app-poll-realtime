@@ -1,0 +1,9 @@
+{
+    "pusherConfig":{
+        "appId": "YOUR-PUSHER-APP-ID",
+        "key": "YOUR-PUSHER-APP-KEY",
+        "secret": "YOUR-PUSHER-SECRET-KEY",
+        "cluster": "YOUR-PUSHER-CLUSTER",
+        "encrypted": true
+    }
+}
