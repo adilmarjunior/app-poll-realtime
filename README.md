@@ -6,4 +6,4 @@
   5- Get your Pusher configs and replace configs variables in code.
 
 #INIT PROJECT
-  1-After replaced all variables with your Pusher credentials, go to terminal and run "npm run dev"
+  1-After replaced all variables with your Pusher credentials, go to terminal and execute "npm install" after "npm run dev"
